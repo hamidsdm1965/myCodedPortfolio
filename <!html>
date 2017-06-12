@@ -1,0 +1,35 @@
+ <!html>
+<head>
+  
+  <link href='https://fonts.googleapis.com/css? family=lobster' rel='stylesheet'    type='text/css'/>
+  
+</head>
+<body>
+  
+  <div class="container-fluid">
+    <ul class="nav nav-pills">
+    
+    <li>
+        
+       <a href='#'>Abdelhamid Bouchibane</a>
+    
+    </li>
+    <li class="pull-right">
+      
+        <a href='#'>About me</a>
+    
+    </li>
+    <li class="pull-right">
+    
+        <a href='#'>Portfolio</a>
+    
+    </li>
+    <li class="pull-right">
+        
+        <a href='#'>Contact me</a>
+    
+    </li>
+    </ul>  
+  </div>
+</body>  
+</html>  

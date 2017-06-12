@@ -1,0 +1,24 @@
+.nav-pills{
+  
+  font-family: lobster;
+  font-size: 1.7em;
+  background-color: black;
+
+}
+body {
+
+  /*background-color: black; */
+  background-image: url("Images/jesus-kiteque-224069.jpg");
+  background-repeat: no-repeat;
+  background-size: 80px 60px;  
+}
+.pageOne {
+
+     
+	/*background: url("Images/jesus-kiteque-224069.jpg"); 
+    /* background-color: green; */  
+	/*background-size: cover;
+	height: 800px; 
+    width: 800px; */
+
+}
